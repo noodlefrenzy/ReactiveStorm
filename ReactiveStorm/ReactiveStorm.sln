@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveStorm", "ReactiveStorm.csproj", "{94794056-8CC8-4ED7-B6FC-864FC7A94CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94794056-8CC8-4ED7-B6FC-864FC7A94CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94794056-8CC8-4ED7-B6FC-864FC7A94CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94794056-8CC8-4ED7-B6FC-864FC7A94CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94794056-8CC8-4ED7-B6FC-864FC7A94CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
